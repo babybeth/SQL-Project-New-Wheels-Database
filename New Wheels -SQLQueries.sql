@@ -1,17 +1,6 @@
-/*
+/*Use vehdb as current database*/ 
+USE vehdb;
 
------------------------------------------------------------------------------------------------------------------------------------
-													    Guidelines
------------------------------------------------------------------------------------------------------------------------------------
-
-The provided document is a guide for the project. Follow the instructions and take the necessary steps to finish
-the project in the SQL file			
-
------------------------------------------------------------------------------------------------------------------------------------
-                                                         Queries
-                                               
------------------------------------------------------------------------------------------------------------------------------------*/
-  USE vehdb;
 /*-- QUESTIONS RELATED TO CUSTOMERS
      [Q1] What is the distribution of customers across states?
      Hint: For each state, count the number of customers.*/
