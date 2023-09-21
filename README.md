@@ -1,6 +1,6 @@
 # SQL-Project-New-Wheels-Database
 
-# Requirement
+# Requirement:
 The objective of this project is to find answers for the questions being asked by  ew Wheels, a vehicle resale company using the data provided by them and create a quarterly business report.
 
 # Business Context:
@@ -13,3 +13,8 @@ New-Wheels sales have been dipping steadily in the past year, and due to the cri
 
 The data is available in new_wheels_dumpfile.sql that contains various tables that are present in the database.The data dictionary (new_wheels_sales.txt) has detailed descriptions of each column.
 The ER diagram is available in ER - Diagram.pdf
+
+# Results:
+The SQL queries to the questions from the New Wheels are available in New Wheels-SQLQueries.sql file.
+The query results are in NEW WHEELS-QueryResults.pdf and Top_Vehiclemakers.xls files
+The quarterly business report is available in NEW WHEELS_QBReport.pdf
