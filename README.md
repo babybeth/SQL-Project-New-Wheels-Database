@@ -18,3 +18,7 @@ The ER diagram is available in ER - Diagram.pdf
 The SQL queries to the questions from the New Wheels are available in New Wheels-SQLQueries.sql file.
 The query results are in NEW WHEELS-QueryResults.pdf and Top_Vehiclemakers.xls files
 The quarterly business report is available in NEW WHEELS_QBReport.pdf
+
+# Built with
+MYSQL
+
